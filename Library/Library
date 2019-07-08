@@ -4,3 +4,5 @@ Where to place this entire folder(MINISMARTGPU)?
 place it in the arduino PC root:
 
 arduino\libraries\MINISMARTGPU
+
+restart arduino IDE to recognize the library and enjoy!
