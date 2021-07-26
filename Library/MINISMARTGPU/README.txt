@@ -1,10 +1,6 @@
 
 /**************************************************************/
-  MINISMARTGPU ARDUINO EXAMPLES V4.0
-
-/Those examples help the user to communicate the MINISMARTGPU BOARD with the arduino board
-
-/Some examples require pre-loaded images or text files on the microSD card!
+  MINISMARTGPU ARDUINO LIBRARY V4.0
 
 /**************************************************************/
 Be sure to place first the MINISMARTGPU library, the entire folder(MINISMARTGPU)
