@@ -1,24 +1,29 @@
 
 /**************************************************************/
-  MINI SMARTGPU ARDUINO UNO LIBRARY V3
+  MINISMARTGPU ARDUINO EXAMPLES V4.0
 
-This library help the user to communicate the MINI SMARTGPU BOARD with the arduino board using the smartSHIELD, be sure to check pinout while connecting the MINISMARTGPU!
+/Those examples help the user to communicate the MINISMARTGPU BOARD with the arduino board
 
-Where to place this entire folder(MINISMARTGPU)?
+/Some examples require pre-loaded images or text files on the microSD card!
 
-place it in the arduino PC root:
+/**************************************************************/
+Be sure to place first the MINISMARTGPU library, the entire folder(MINISMARTGPU)
+place it in the arduino root:
 
-arduino\libraries\MINISMARTGPU
+C:\Program Files (x86)\Arduino\libraries\MINISMARTGPU
 
 restart arduino to recognize the library and enjoy!
 
-be sure to check out all the MINI SMARTGPU examples 100% ready to compile and load in our website
+be sure to check out all the MINISMARTGPU examples 100% ready to compile
 /**************************************************************/
 
 Mini SMARTGPU board:
-https://www.vizictechnologies.com/products
+https://www.vizictechnologies.com/product-page/minismartgpu-1-8-lcd160x128
 
-VIZIC TECHNOLOGIES Copyright 2019
+Software:
+https://github.com/VizicTechnologies/miniSmartGPU-Arduino
+
+VIZIC TECHNOLOGIES Copyright 2021
 
 www.vizictechnologies.com
 /**************************************************************/
